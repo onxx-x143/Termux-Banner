@@ -40,10 +40,13 @@ curl -fsSL https://raw.githubusercontent.com/onxx-x143/Termux-Banner/main/main.s
 ## 👨‍💻 Author
 
 **Made with ❤️ by onxx-x143**
+<div align="center">
 
-- **Instagram**: [@_insrnx_](https://www.instagram.com/_insrnx_)
-- **YouTube**: [Your YouTube Channel](https://youtube.com/@hari.x145) ← Yahan apna link daal dena
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Now-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_insrnx_)
 
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe%20Now-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hari.x145)
+
+</div>
 ---
 
 **Enjoy your new stylish Termux look!** 🦊🔥
